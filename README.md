@@ -2,9 +2,13 @@
 This is the code of a searchable encryption scheme on smart grid data.
 
 1.run the build_index.py
+
 Please input the file to be encrypted: 8000_data.csv
+
 Please input the file stored the master key: masterkey
+
 Please input the file stores keyword name: dataname_list
+
 Then we get the index file named 8000_data_index.csv.
 
 2.run the build_trapdoor.py
