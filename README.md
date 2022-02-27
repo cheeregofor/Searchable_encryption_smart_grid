@@ -12,6 +12,7 @@ Please input the file stores keyword name: dataname_list
 Then we get the index file named 8000_data_index.csv.
 
 
+
 2.run the build_trapdoor.py
 
 Please input the keyword you want to search: Wheeling Power Co
